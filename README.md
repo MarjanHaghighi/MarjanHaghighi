@@ -12,7 +12,7 @@ I am an Oracle Database Developer and Data Modeler with 12+ years of experience,
 - 🐍 **Programming:** Python, Bash/Shell Scripting
 - 🎓 **Education:** Postgraduate Certificate in Cloud Architecture & Administration
 - 📍 **Location:** Toronto, Canada
-- 🤝 **Strengths:** Problem Solving | Collaborative Leadership | Continuous Learning
+- 🤝 **Strengths:** Analytical Problem Solving | Attention to Detail | Collaboration | Continuous Learning
 
 ## 🚀 Current Focus
 

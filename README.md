@@ -1,4 +1,4 @@
-# Hi 👋 I'm Marjan Haghighi
+# Marjan Haghighi
 
 ### Oracle Database Developer | Data Modeler | Cloud & Data Professional
 

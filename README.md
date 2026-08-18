@@ -30,4 +30,4 @@ I am an Oracle Database Developer and Data Modeler with 12+ years of experience,
 I'm always interested in connecting with professionals in Database, Data, Cloud, DevOps, and Financial Technology.
 
 💼 [Connect with me on LinkedIn](https://www.linkedin.com/in/marjan-haghighi/)  
-📧 [Email me](mailto:marjanhaghighi.ca@gmail.com)
+

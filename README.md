@@ -23,28 +23,12 @@ I am an Oracle Database Developer and Data Modeler with 12+ years of experience,
 
 ## 🛠️ Core Technologies
 
-`Oracle` `SQL` `PL/SQL` `Python` `AWS` `Azure` `Terraform` `Docker` `Kubernetes` `GitHub Actions` `Linux`
-
-## 💼 Featured Areas
-
-- Oracle Database Development & PL/SQL
-- Data Modeling & Database Design
-- SQL Performance Tuning & Optimization
-- Financial Systems & Banking Data
-- Cloud Architecture & Administration
-- Infrastructure as Code with Terraform
-- Containerization & Kubernetes
-- CI/CD, Security Scanning & Automation
-- Data Migration, Governance & Integration
-
-## 📈 GitHub Stats
-
-![Marjan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarjanHaghighi&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MarjanHaghighi&layout=compact)
+`Oracle` `SQL` `PL/SQL` `Python` `AWS` `Azure` `Terraform` `Docker` `Kubernetes` `GitHub Actions` `Linux` `Unix`
 
 ## 🤝 Let's Connect
 
 I'm always interested in connecting with professionals in Database, Data, Cloud, DevOps, and Financial Technology.
 
-[Connect with me on LinkedIn](https://www.linkedin.com/in/marjan-haghighi/)
+[LinkedIn](https://www.linkedin.com/in/marjan-haghighi/)
+[Email](marjanhaghighi.ca@gmail.com)
+

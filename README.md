@@ -9,7 +9,7 @@ I am an Oracle Database Developer and Data Modeler with 12+ years of experience,
 - ⚙️ **DevOps:** Terraform, Docker, Kubernetes & CI/CD Pipelines
 - 📊 **Data:** Data Governance, Migration, Integration & Data Quality
 - 🐍 **Programming:** Python, Bash/Shell Scripting
-- 🎓 **Education:** Postgraduate Certificate in Cloud Architecture & Administration
+- 🎓 **Education:** Postgraduate Certificate in Cloud Architecture & Administration - Master's: IT Management - Bachelor's: Software Engineer
 - 📍 **Location:** Toronto, Canada
 - 🤝 **Strengths:** Analytical Problem Solving | Attention to Detail | Collaboration | Continuous Learning
 

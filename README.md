@@ -1,7 +1,6 @@
 # Hi, I'm Marjan Haghighi
 
-### Oracle Database Developer | Data Modeler | Cloud & Data Professional
-
+### Oracle Database Developer | Data Modeler | Cloud & DevOps
 I am an Oracle Database Developer and Data Modeler with 12+ years of experience, primarily in banking and financial services. I specialize in designing, developing, optimizing, and supporting enterprise database solutions and have expanded my expertise into modern cloud and DevOps technologies.
 
 - 🗄️ **Database:** Oracle 11g/12c/19c, SQL, PL/SQL, Data Modeling & Performance Tuning
